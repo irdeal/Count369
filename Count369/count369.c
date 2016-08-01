@@ -14,7 +14,8 @@
 
 void getXcount(int , int , int * );
 int is369char(int);
-//add a commit
+
+
 int main(int argc, const char * argv[]) {
     // insert code here...
     int up=0, bottom=0;
